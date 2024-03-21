@@ -1,0 +1,314 @@
+
+
+@media only screen and (max-width: 1200px) {
+
+    
+    .course-heading {max-width: 500px; padding: 20px 0;}
+    .course-heading h2 {  padding: 10px 0; margin: 0; font-size: 14px;}
+    .course-heading h1 { padding: 10px 0; margin: 0 ;  font-size: 30px;}
+    .course-heading p {color: gray; padding: 10px 0; margin: 0;}
+    .course-box {margin: 10px ; padding: 20px;  }
+    .course-box2 {margin: 40px 10px ; padding: 20px; }
+
+    .teacher-box {    padding: 40px; margin: 20px;}
+    .teacher-box p {padding: 10px 0; font-size: 14px;}
+    .teacher-right ul li {padding:   3px ; margin: 0;font-size: 12px;}
+    .bi-check-circle-fill { font-size: 25px;}
+    .bi-check-circle {font-size: 25px;}
+    .try-btn {font-size: 14px; padding: 8px;}
+}
+
+@media only screen and (max-width: 992px) {
+
+    .login-btn {padding: 5px 10px; margin: 10px 10px 0 0;}
+    .topnav a {  padding: 15px 10px; font-size: 17px;}
+
+    .banner_wrapper {padding: 40px 0;}
+    .left-banner h1{ padding: 5px 0;font-size: 40px;}
+    .left-banner h2{ padding: 5px 0; margin: 0; font-size: 14px;}
+    .left-banner p{  padding: 5px 0; margin: 0; font-size: 14px;  }
+    .join-btn {padding: 5px 10px; margin: 10px 10px 0 0;}
+    .learn-btn{padding: 5px 10px; margin: 10px 10px 0 0;}
+
+    .course_wrapper {padding: 40px 0; margin: 0;}
+    .course-heading {max-width: 500px; padding: 20px 0;}
+    .course-heading h2 {  padding: 10px 0; margin: 0; font-size: 14px;}
+    .course-heading h1 { padding: 10px 0; margin: 0 ;  font-size: 25px;}
+    .course-heading p {color: gray; padding: 10px 0; margin: 0;font-size: 14px;}
+    .course-box {margin: 10px 5px ; padding: 10px;  }
+    .course-box2 {margin: 40px 5px ; padding: 10px; }
+    .course-box h2 { font-size: 16px; padding: 10px 0; margin:  0;  } 
+    .course-box2 h2 { font-size: 16px; padding: 10px 0; margin: 0; }
+    .course-box  p {padding: 10px 0; margin: 0; font-size: 14px;}
+    .course-box2  p {padding: 10px 0; margin: 0;  font-size: 14px;}
+
+    .Practice_wrapper {padding: 40px 0; }
+
+    .popular_wrapper {padding: 40px 0}
+    .rignt-box {max-width: 300px; width: 100%;}
+    .right-popular h1 {  padding: 10px 0 ; font-size: 35px;}
+    .right-popular p { padding: 10px 0 ;font-size: 14px;} 
+
+    .testimonial_wrapper {padding: 40px 0;}
+
+    .news_wrapper  {padding: 40px 0; margin: 0;}
+    .new-box {padding: 20px 0; margin: 0;}
+    .new-box h1 {color: #fff; padding: 10px 0;font-size: 40px;}
+    .new-box p {color: #fff; padding: 10px 0;font-size: 14px;}
+    .email {padding: 8px;width: 50%; margin: 40px 0;}
+    .sub{padding: 8px;margin: 40px 0;}
+
+
+   
+    .teacher-box {    padding: 40px; margin: 30px;  }
+    .teacher-box .bi-heart-fill { padding: 7px 12px; border-radius: 55%;font-size: 20px;} 
+    .teacher-box h4 {padding:15px 0;font-size: 18px;}
+    .teacher-box h5 {padding: 5px 0;  font-size: 12px; color: gray;}
+    .teacher-box h3 {padding: 5px 0; font-size: 23px; color: #ff6551;}
+    .teacher-box h3 span { font-size: 12px; }
+    .teacher-box p {padding: 10px 0; margin: 0;  color: gray; font-size: 14px;}
+    .try-btn{ padding: 8px 0px; margin: 10px 0;}
+    .teacher-right ul li {padding:   0px ; margin: 0;font-size: 15px;}
+
+    .footer_wrapper {padding: 40px; }
+
+}
+
+@media only screen and (max-width: 768px) {
+
+    .login-btn {padding: 5px 10px; margin: 10px 10px 0 0;font-size: 12px; }
+    .topnav img {max-width: 100px; }
+    .topnav a {  padding: 15px 8px; font-size: 14px;}
+
+    .banner_wrapper {padding: 30px 0;}
+    .left-banner h1{ padding: 5px 0;font-size: 30px;}
+    .left-banner h2{ padding: 5px 0; margin: 0; font-size: 12px;}
+    .left-banner p{  padding: 5px 0; margin: 0; font-size: 12px;  }
+    .join-btn {padding: 5px 10px; margin: 10px 10px 0 0;font-size: 12px; }
+    .learn-btn{padding: 5px 10px; margin: 10px 10px 0 0;font-size: 12px; }
+
+
+    .course_wrapper {padding: 30px 0; margin: 0;}
+    .course-heading {max-width: 500px; padding: 20px 0;}
+    .course-heading h2 {  padding: 5px 0; margin: 0; font-size: 14px;}
+    .course-heading h1 { padding: 5px 0; margin: 0 ;  font-size: 25px;}
+    .course-heading p {color: gray; padding: 5px 0; margin: 0;font-size: 14px;}
+    .course-box {margin: 20px 10px ; padding: 20px;  }
+    .course-box2 {margin: 50px 10px ; padding: 20px; }
+    .course-box h2 { font-size: 18px; padding: 10px 0; margin: 5px; max-width: 138px; } 
+    .course-box2 h2 { font-size: 18px; padding: 10px 0; margin: 5px;max-width: 138px; }
+    .course-box  p {padding: 10px 0; margin: 0; font-size: 14px;}
+    .course-box2  p {padding: 10px 0; margin: 0;  font-size: 14px;}
+
+    .Practice_wrapper {padding: 30px 0; }
+    .learn-more { padding: 5px 10px;  margin: 10px; font-size: 14px;}
+
+    .popular_wrapper {padding: 30px 0}
+    .rignt-box {max-width: 100%; width: 100%; padding-left: 20px;}
+    .right-popular h1 {  padding: 5px 0 ; font-size: 25px;}
+    .right-popular p { padding: 5px 0 ;font-size: 14px;}
+    .learn{font-size: 14px;}
+    .learn:hover .bi-chevron-right {padding:  0 5px ;}
+
+    .test-box h3 {font-size: 18px; padding: 5px 0; margin: 0;}
+    .test-box h4 {font-size: 16px; padding: 5px 0; margin: 0;color: gray;}
+    .test-box p {padding: 10px 0; margin: 0; font-size: 14px;}
+
+    .testimonial_wrapper {padding: 30px 0;}
+
+    .news_wrapper  {padding: 30px 0; margin: 0;}
+    .new-box h1 {color: #fff; padding: 10px 0;font-size: 30px;}
+    .email {padding: 8px;width: 50%; margin: 30px 0; font-size: 14px;}
+    .sub{padding: 8px;margin: 30px 0;font-size: 14px;}
+
+
+    .teacher_wrapper {padding: 30px 0; margin: 0;}
+    .teacher-box {    padding: 30px; margin: 20px;  }
+    .teacher-right ul li {font-size: 18px;}
+    .bi-check-circle-fill { font-size: 18px;}
+    .bi-check-circle {font-size: 18px;}
+
+    .footer_wrapper {padding: 30px; }
+    .social_wrapper p  {font-size: 12px;}
+}
+
+@media only screen and (max-width: 600px) {
+
+    .topnav a:not(:first-child) {display: none;}
+    .topnav a.icon {   float: right; display: block;     padding: 10px; font-size: 20px;}
+    .topnav.responsive {position: relative;}
+    .topnav.responsive .icon {  position: absolute; right: 0; top: 0; }
+    .topnav.responsive a { float: none;display: block; text-align: left; }
+    .login-btn {padding: 5px 8px; margin: 5px 5 0 0;font-size: 10px; }
+    .fa {font-size: 30px;}
+ 
+
+    .banner_wrapper {padding: 20px 0;}
+    .left-banner h1{ padding: 5px 0;font-size: 25px;}
+    .left-banner h2{ padding: 5px 0; margin: 0; font-size: 12px;}
+    .left-banner p{  padding: 5px 0; margin: 0; font-size: 10px;  }
+    .join-btn {padding: 5px 8px; margin: 5px 5 0 0;font-size: 10px; }
+    .learn-btn{padding: 5px 8px; margin: 5px 5px 0 0;font-size: 10px; }
+
+    .course-box {margin: 20px 10px ; padding: 20px;  }
+    .course-box2 {margin: 20px 10px ; padding: 20px; }
+
+    .Practice_wrapper {padding: 20px 0; }
+    .practice-left h3 {font-size: 14px; color: #ff6551;  padding: 5px 10px; margin: 0;}
+    .practice-rignt .star-btn {padding: 0px  5px;  font-size: 12px;}
+    .Practice-box h2 {padding: 5px 10px;  }
+    .Practice-box p { padding:  5px 10px;  font-size: 14px;}
+    .Practice-box h4 {  font-size: 12px; padding: 5px 10px ; }
+    .Practice-box h4 .bi {color: gray; font-size: 14px;}
+    .Practice-box h5 {font-size: 14px;  padding:5px 10px;}
+    .learn-more { padding: 3px 10px; margin:  10px; font-size: 12px;}
+
+
+    .popular_wrapper {padding: 20px 0}
+    .rignt-box {max-width: 100%; width: 100%; padding-left: 20px;}
+    .right-popular h1 {  padding: 5px 0 ; font-size: 20px;}
+    .right-popular p { padding: 5px 0 ;font-size: 12px;}
+    .learn {font-size: 12px;}
+    .learn:hover .bi-chevron-right {padding:  0 10px ;}
+
+    .testimonial_wrapper {padding: 20px 0;}
+    .test-box {padding: 10px 0;}
+    .test-box img {max-width: 100px;padding: 10px 0;}
+
+
+    .news_wrapper  {padding: 20px 0; margin: 0;}
+    .new-box {padding: 20px 0; margin: 0;}
+    .new-box h1 {color: #fff; padding: 5px 0;font-size: 25px;}
+    .new-box p {color: #fff; padding: 5px 0;font-size: 14px;}
+    .email {padding: 8px;width: 50%; margin: 20px 0;}
+    .sub{padding: 8px;margin: 20px 0;}
+
+    .teacher_wrapper {padding: 20px 0; margin: 0;}
+
+    .footer_wrapper {padding: 20px; }
+    .social_wrapper { padding: 10px 0;;}
+    .footer_wrapper ul li { padding: 3px 0; margin: 0; font-size: 14px;}
+    .social_wrapper  ul {float: left; padding: 10px 0; margin: 0;}
+}
+
+@media only screen and (max-width: 500px) {
+
+    .login-btn {padding: 5px 8px; margin: 4px 5 0 0;font-size: 10px; }
+
+    .banner_wrapper {padding: 20px 0;}
+    .left-banner h1{ padding: 4px 0;font-size: 20px;}
+    .left-banner h2{ padding: 4px 0; margin: 0; font-size: 10px;}
+    .left-banner p{  padding: 4px 0; margin: 0; font-size: 10px;  }
+    .join-btn {padding: 5px 8px; margin: 4px 5 0 0;font-size: 10px; }
+    .learn-btn{padding: 5px 8px; margin: 4px 5px 0 0;font-size: 10px; }
+
+    .course_wrapper {padding: 20px 0; margin: 0;}
+    .course-heading {max-width: 500px; padding: 10px ;}
+    .course-heading h2 {  padding: 5px 0; margin: 0; font-size: 12px;}
+    .course-heading h1 { padding: 5px 0; margin: 0 ;  font-size: 20px;}
+    .course-heading p {color: gray; padding: 5px 0; margin: 0;font-size: 12px;}
+
+    .popular_wrapper {padding: 20px 0}
+    .rignt-box {max-width: 100%; width: 100%; padding-left: 10px;}
+    .right-popular h1 {  padding: 3px 0 ; font-size: 18px;border-top: 3px solid #ff6551;}
+    .right-popular p { padding: 3px 0 ;font-size: 12px;}
+    .learn{font-size: 12px; margin: 3px 0;}
+    .learn:hover .bi-chevron-right {padding:  0 5px ;}
+
+}
+
+@media only screen and (max-width: 400px) {
+
+    .login-btn {padding: 5px ; margin: 4px 2px 0 0;font-size: 9px; }
+    .button-wrapper {float: left;}
+
+    .banner_wrapper {padding: 20px 0;}
+    .left-banner h1{ padding: 4px 0;font-size: 18px;}
+    .left-banner h2{ padding: 4px 0; margin: 0; font-size: 9px;}
+    .left-banner p{  padding: 4px 0; margin: 0; font-size: 9px;  }
+    .join-btn {padding: 5px ; margin: 4px 2px 0 0;font-size: 9px;    margin: 14px 0;; }
+    .learn-btn{padding: 5px;  margin: 4px 2px 0 0;font-size: 9px; }
+
+
+    .popular_wrapper {padding: 20px 0}
+    .rignt-box {max-width: 100%; width: 100%; padding-left: 10px;}
+    .right-popular h1 {  padding: 3px 0 ; font-size: 16px;}
+    .right-popular p { padding: 3px 0 ;font-size: 10px;}
+    .learn{font-size: 10px; margin: 3px 0;}
+
+
+
+    .new-box {padding: 20px 0; margin: 0;}
+    .new-box h1 {color: #fff; padding: 5px 0;font-size: 18px;}
+    .new-box p {color: #fff; padding: 5px 0;font-size: 12px;}
+    .email {padding: 5px;width: 50%; margin: 20px 0;font-size: 12px;}
+    .sub{padding: 5px;margin: 20px 0;font-size: 12px;}
+}
+
+
+@media only screen and (max-width: 387px) {
+
+    .teacher-box {    padding: 30px; margin: 10px;  }
+    .teacher-right ul li {    font-size: 17px;  padding: 1px 0;}
+    .bi-check-circle-fill { font-size: 19px;}
+    .bi-check-circle {font-size: 19px;}
+
+
+}
+
+
+@media only screen and (max-width: 350px) {
+
+    .login-btn {padding: 3px ; margin: 3px 2px 0 0;font-size: 8px; }
+
+    .banner_wrapper {padding: 20px 0;}
+    .left-banner h1{ padding: 3px 0;font-size: 16px;}
+    .left-banner h2{ padding: 3px 0; margin: 0; font-size: 8px;}
+    .left-banner p{  padding: 3px 0; margin: 0; font-size: 8px;  }
+    .join-btn {padding: 3px ; margin: 3px 2px 0 0;font-size: 8px; }
+    .learn-btn{padding: 3px;  margin: 3px 2px 0 0;font-size: 8px; }
+
+    .popular_wrapper {padding: 20px 0}
+    .rignt-box {max-width: 100%; width: 100%; padding-left: 10px;}
+    .right-popular h1 {  padding: 3px 0 ; font-size: 14px;}
+    .right-popular p { padding: 3px 0 ;font-size: 8px;}
+    .learn{font-size: 8px; margin: 3px 0; }
+
+    .teacher-box {    padding: 20px;}
+    .teacher-right ul li {    font-size: 16px;  padding: 2px 0;}
+}
+
+
+
+@media only screen and (max-width: 323px) { 
+
+    .teacher-right ul li {    font-size: 15px;  padding: 3px 0;}
+}
+
+@media only screen and (max-width: 310px) { 
+
+    .teacher-right ul li {    font-size: 14px;  }
+}
+
+@media only screen and (max-width: 295px) { 
+
+    .teacher-right ul li {    font-size: 13px;   padding: 4px 0 }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
